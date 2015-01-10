@@ -1,0 +1,10 @@
+{
+    "name": "ivko/yii-xoad",
+    "description": "forked from sidtj/Yii-Conditional-Validator",
+    "authors": [
+        {
+            "name": "IvKo"
+        }
+    ],
+    "minimum-stability": "dev"
+}
